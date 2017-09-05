@@ -1,4 +1,4 @@
-FROM postgres
+FROM postgres:9.4.7
 
 MAINTAINER Nicolas Bös
 
